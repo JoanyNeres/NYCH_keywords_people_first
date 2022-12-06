@@ -28,7 +28,7 @@ function App() {
     <div className="box_content">
       {buttonsDisplay ?
       <>
-        <h3 className="statement_incomplete">{statements[i].sentence}</h3>
+        <h3 className="statement_question">{statements[i].sentence}</h3>
         <p className="instruction">Click in the correct word below to fill the gap:</p>
         <div className="buttons_box">  
             <div className="buttons_row">
