@@ -16,7 +16,7 @@ const statements = [
     },
     {
         sentence: "4. Fictional name, photo, age, occupation, goals and skills are common ________ included in personas.",
-        word: "COMPONENT",
+        word: "COMPONENTS",
         statement: "4. Fictional name, photo, age, occupation, goals and skills are common components included in personas."
     },
     {
