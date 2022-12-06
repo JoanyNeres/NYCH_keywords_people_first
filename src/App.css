@@ -51,3 +51,16 @@ button{
 button:hover{
   background-color: rgb(84, 177, 163);
 }
+
+@media screen and (max-width: 600px){
+  .statement_question, .instruction{
+    padding: 12px;
+  }
+
+  .buttons_row {
+    flex-direction: column;
+  }
+}
+
+
+

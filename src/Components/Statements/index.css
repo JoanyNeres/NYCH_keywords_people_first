@@ -54,3 +54,29 @@ h2{
 .button_restart:hover{
     background-color: rgb(84, 177, 163);
 }
+
+@media screen and (max-width: 600px){
+    .figure_end{
+        width: 250px;
+        margin-bottom: 12px;
+    }
+
+    h2{
+        font-size: 16px;
+    }
+
+    .statements_list{
+        font-size: 16px;
+        padding: 10px;
+        max-width: 550px;
+    }
+}
+
+
+
+
+
+
+
+
+}
