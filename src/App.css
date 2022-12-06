@@ -57,6 +57,14 @@ button:hover{
     padding: 12px;
   }
 
+  .statement_question{
+    margin-top: 24px;
+  }
+
+  .instruction{
+    margin-top: 36px;
+  }
+
   .buttons_row {
     flex-direction: column;
   }
