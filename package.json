@@ -1,7 +1,7 @@
 {
   "name": "nych_keywords",
   "version": "0.1.0",
-  "homepage": "nych_keywords/",
+  "homepage": "NYCH_keywords_people_first",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
