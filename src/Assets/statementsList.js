@@ -27,7 +27,7 @@ const statements = [
     {
         sentence: "6. It's important to get feedback from you colleagues and ______ your personas.",
         word: "MODIFY",
-        statement: "6. It's important to get feedback from you colleagues and modify your personas."
+        statement: "6. It's important to get feedback from your colleagues and modify your personas."
     }
   ]
 
