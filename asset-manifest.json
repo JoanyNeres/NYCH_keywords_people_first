@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nych_keywords/static/css/main.2da71ee6.css",
-    "main.js": "/nych_keywords/static/js/main.098e701d.js",
-    "static/js/787.d288a0c2.chunk.js": "/nych_keywords/static/js/787.d288a0c2.chunk.js",
-    "index.html": "/nych_keywords/index.html",
-    "main.2da71ee6.css.map": "/nych_keywords/static/css/main.2da71ee6.css.map",
-    "main.098e701d.js.map": "/nych_keywords/static/js/main.098e701d.js.map",
-    "787.d288a0c2.chunk.js.map": "/nych_keywords/static/js/787.d288a0c2.chunk.js.map"
+    "main.css": "/NYCH_keywords_people_first/static/css/main.2da71ee6.css",
+    "main.js": "/NYCH_keywords_people_first/static/js/main.0d3f1c00.js",
+    "static/js/787.d288a0c2.chunk.js": "/NYCH_keywords_people_first/static/js/787.d288a0c2.chunk.js",
+    "index.html": "/NYCH_keywords_people_first/index.html",
+    "main.2da71ee6.css.map": "/NYCH_keywords_people_first/static/css/main.2da71ee6.css.map",
+    "main.0d3f1c00.js.map": "/NYCH_keywords_people_first/static/js/main.0d3f1c00.js.map",
+    "787.d288a0c2.chunk.js.map": "/NYCH_keywords_people_first/static/js/787.d288a0c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2da71ee6.css",
-    "static/js/main.098e701d.js"
+    "static/js/main.0d3f1c00.js"
   ]
 }
