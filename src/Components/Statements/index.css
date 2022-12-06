@@ -62,12 +62,16 @@ h2{
     }
 
     h2{
-        font-size: 16px;
+        font-size: 18px;
     }
 
     .statements_list{
         font-size: 16px;
         padding: 10px;
         max-width: 550px;
+    }
+
+    .button_restart{
+        margin-top: 32px;
     }
 }
