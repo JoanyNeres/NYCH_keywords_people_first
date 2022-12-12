@@ -22,8 +22,7 @@ function App() {
       else {
         setIndex(i+1)
       }
-    }
-    else {
+    } else {
       Swal.fire({
         icon: "warning",
         title: "Oopsie. Try again.",
