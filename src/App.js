@@ -2,6 +2,7 @@ import './App.css';
 import React, { useState } from 'react';
 import { Statements } from './Components/Statements'
 import statements from './Assets/statementsList'
+import Swal from 'sweetalert2'
 
 
 function App() {
@@ -22,14 +23,22 @@ function App() {
         setIndex(i+1)
       }
     }
+    else {
+      Swal.fire({
+        icon: "warning",
+        title: "Oopsie. Try again.",
+        color: "#000000",
+        confirmButtonColor: "#006699"})
+    }
   }
+  
 
   return (
     <div className="box_content">
       {buttonsDisplay ?
       <>
         <h3 className="statement_question">{statements[i].sentence}</h3>
-        <p className="instruction">Click in the correct word below to fill the gap:</p>
+        <p className="instruction">Click on the correct word below to fill the gap:</p>
         <div className="buttons_box">  
             <div className="buttons_row">
               <button id="3" onClick={clickAnswer}>{statements[3].word}</button>

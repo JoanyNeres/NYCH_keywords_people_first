@@ -10,7 +10,7 @@ export function Statements(props){
         <div className="box_content">
             <img className="figure_end" src="https://cdn.discordapp.com/attachments/1016745958727491615/1049064045673730178/Profile_data-pana.png"
              alt="Persona illustration" />
-            <h2>Yeah! You got it, well done!</h2>
+            <h2>Hooray! You did it!</h2>
             <ul className="statements_list">
                 <li>
                     <p>{props.statements[0].statement}</p>
