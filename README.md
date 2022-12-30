@@ -8,11 +8,15 @@ The user must click on the button with the correct answer that completes the sen
 
 If the answer is correct, the button will disappear, and the following sentence will appear on the screen.
 
-<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1049762207489065060/2.png" />
+<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1058424406839414834/2.png" />
+
+If the answer is wrong, an alert message will appear on the screen.
+
+<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1058424407187533834/3.png"/>
 
 After completing all the phrases, the screen will display the success message and a box with all the sentences. The restart button refreshes the page and restarts the exercise.
 
-<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1049762207874949130/3.png" />
+<img src="https://cdn.discordapp.com/attachments/1016745958727491615/1058424407619534908/4.png"/>
 
 
 
